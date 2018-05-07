@@ -1,0 +1,55 @@
+{
+  "_from": "homebridge-vizio-smartcast",
+  "_id": "homebridge-vizio-smartcast@0.9.4",
+  "_inBundle": false,
+  "_integrity": "sha1-+G45TlegzpcyHJNH8N12I6ObX4w=",
+  "_location": "/homebridge-vizio-smartcast",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "homebridge-vizio-smartcast",
+    "name": "homebridge-vizio-smartcast",
+    "escapedName": "homebridge-vizio-smartcast",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-vizio-smartcast/-/homebridge-vizio-smartcast-0.9.4.tgz",
+  "_shasum": "f86e394e57a0ce97321c9347f0dd7623a39b5f8c",
+  "_spec": "homebridge-vizio-smartcast",
+  "_where": "/home/pi",
+  "author": {
+    "name": "ajw@ajw.io"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/ajw/homebridge-vizio-smartcast/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "vizio-smart-cast": "*"
+  },
+  "deprecated": false,
+  "description": "Homebridge plugin to control Vizio Smartcast TVs.",
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "homepage": "https://gitlab.com/ajw/homebridge-vizio-smartcast#README.md",
+  "keywords": [
+    "homebridge-plugin",
+    "vizio",
+    "smartcast"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "homebridge-vizio-smartcast",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ajw/homebridge-vizio-smartcast.git"
+  },
+  "version": "0.9.4"
+}
